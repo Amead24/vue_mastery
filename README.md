@@ -8,3 +8,6 @@ Challenges and walktrhough completed @ 01-02-2023
 
 Challenges and walktrhough completed @ 01-17-2023
 
+## Intro Pinia
+
+Completed @ 03-17-2024
